@@ -450,8 +450,8 @@ h1.title {
   margin: 30px 20px 10px;
   font-size: 60px;
   font-weight: bold;
-  font-style: italic;
-  font-family:Georgia, serif;
+  font-style: normal;
+  font-family:alkatip ui, serif;
   text-align: center;
 }
 
@@ -470,6 +470,7 @@ p.tagline {
   padding: 20px 20px 0;
   color: #fff;
   font-size: 17px;
+  text-align:right;
 }
 
 #main {
@@ -554,7 +555,8 @@ p.tagline {
   padding-left: 35px;
   margin-top: 8px;
   display: block;
-  float: left;
+  float: right;
+  text-align:right;
   text-indent: 0;
   width: auto;
   height: auto;
